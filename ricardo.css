@@ -1,0 +1,21 @@
+body{
+    background: url('https://investnews.com.br/wp-content/uploads/2024/06/Screenshot-2024-06-10-at-13.31.21-1024x771.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container img{
+margin-top: 150px;
+width: 300px;    
+}
+
+.medalha2{
+    width: 500px;
+    margin-top: -700px;
+}
+
+.medalha3{
+    width: 500px;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
